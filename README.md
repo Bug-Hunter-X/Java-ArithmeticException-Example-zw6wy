@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Java: the ArithmeticException.  The `UncommonBug.java` file contains a simple program that divides by zero. The `UncommonBugSolution.java` file demonstrates how to handle this exception using a try-catch block.  This is crucial for robust Java applications.
